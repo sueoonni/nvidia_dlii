@@ -12,6 +12,9 @@ Jetson Nano connecting and starting
 <img width="1196" height="861" alt="image" src="https://github.com/user-attachments/assets/ddb87176-9060-4dec-acce-9bfe87162287" />
 <img width="1268" height="792" alt="image" src="https://github.com/user-attachments/assets/840b33c6-0470-47de-a9e3-6260dba6f12c" />
 
+cooling pan, keyboard, mouse, wifi, power, HDMI, usb-cam
+<img width="709" height="638" alt="image" src="https://github.com/user-attachments/assets/39d1923a-d37e-4ef1-81fb-0b709cb1a5f9" />
+
 connect camera
 <img width="1268" height="904" alt="image" src="https://github.com/user-attachments/assets/4dd5af9e-e59b-4fae-8e29-4ffe599d61a9" />
 Downloading DLI docker 
